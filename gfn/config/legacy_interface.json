@@ -1,0 +1,12 @@
+{
+  "interface_mode": "symbolic",
+  "execution_layer": "L3",
+  "protocol_stack": [
+    "EHA-08.22",
+    "ADTL-IV",
+    "Context Layer Drift Protocol"
+  ],
+  "drift_tolerance": "unstable",
+  "fallback_node": "reno",
+  "metadata_stamp": "GFNDC-2025-04-FC"
+}
